@@ -1,4 +1,4 @@
-# Square Classification
+# Squares Classification
 
 This case study contains five steps:
 
