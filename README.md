@@ -1,4 +1,4 @@
-# Apple_case_study
+# Square Classification
 
 This case study contains five steps:
 
